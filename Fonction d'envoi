@@ -1,7 +1,0 @@
-import paramiko as pk
-
-# Configuration de la connexion
-hostname = 'adresse_du_serveur'
-port = 22  # Port SSH par défaut
-username = 'nom_utilisateur'
-password = 'mot_de_passe'
